@@ -18,7 +18,8 @@ theme_settings:
      <p>adventure | faith | financial independence</p>
   header_text_feature_image: assets/img/posts/banner-crop.jpg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>.
+   </br> Hosted on <a href="https://www.linode.com/?r=b31a186aa9fd4c5cc10b3a7fbcaa44747b7dba43">Linode</a>.
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
