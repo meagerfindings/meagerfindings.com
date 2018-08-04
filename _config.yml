@@ -16,7 +16,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>adventure | faith | financial independence</p>
-  header_text_feature_image: assets/blog_images/banner-crop.jpg
+  header_text_feature_image: assets/img/posts/banner-crop.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
