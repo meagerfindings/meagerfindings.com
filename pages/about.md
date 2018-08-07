@@ -2,13 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+feature-img: "assets/img/pexels/book-glass.jpeg"
+tags: [About]
 ---
 
-## Meager what now?
-
 For ten years I have been coming back to this name, wanting to do something with it. I first thought of this name when naming my photography business while in college. I love capturing the small details of things, the small moments, or the often missed oddities in spaces around us.
+
+For more on the name, check out my post: [Meager what now?](/meager-what-now/)
 
 ## Meager Beginnings
 
@@ -24,4 +24,10 @@ We don't have quick, get rich now ideas for you, but we are recording the steps 
 
 ## Meager Goals
 
-## Meagerfindings
+After years of just living and trying to do what I thought was right, we stumbled on the concept of FI. Turns out, we’ve been living some of these principles out for some time now. Sometimes out of necessity, sometimes it was just the next logical, moral choice for us. Now that we've been introduced to FI, we're being more intentional with a much more specific purpose.
+
+Some of the things discussed will be completely obvious to you, if so great! Some of them have been to us as well, however in conversations with friends I've realized not everyone has the same thoughts about money, adventure, and actually getting value in every day situations.
+
+Maybe we'll spark a thought that helps broach a topic with your spouse or loved one that can change someones trajectory in life. Honestly though, our goal is much smaller, document the things we're doing now, our goals, and aspirations. Maybe we'll provide a conversation starter for someone. Or perhaps we'll simply look back on these posts in the future like we look back at our fashion choices from years ago and just laugh.
+
+Either way, we hope you enjoy this adventure and find some sort of value in our meagerfindings.

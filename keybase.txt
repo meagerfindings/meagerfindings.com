@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/meagerfindings
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://meagerfindings.com
+  * I am meagerfindings (https://keybase.io/meagerfindings) on keybase.
+  * I have a public key ASCYK7E4MQCqtrpkn1NGw-GCDVfFxSXxf4vo8i4AJjAN2wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120982bb1383100aab6ba649f5346c3e1820d57c5c525f17f8be8f22e0026300ddb0a",
+      "host": "keybase.io",
+      "kid": "0120982bb1383100aab6ba649f5346c3e1820d57c5c525f17f8be8f22e0026300ddb0a",
+      "uid": "e1649511debcacaf2adad3226b622419",
+      "username": "meagerfindings"
+    },
+    "merkle_root": {
+      "ctime": 1533496895,
+      "hash": "dca23f369127b8b65d63372e68f6de9560ec918f0c5b421ed2df06879b8838a4f75e84e0011758b600f5ae34816b0b4c30ff61758b8aabb1e578903ca433fc73",
+      "hash_meta": "7873f5a7939d56522e2b9957731456487385f09655a8abf6e9acf9bbd5d8f6f9",
+      "seqno": 3411102
+    },
+    "service": {
+      "entropy": "A+WvaQ/TPfL/VydibOHC1qgx",
+      "hostname": "meagerfindings.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1533496905,
+  "expire_in": 504576000,
+  "prev": "a9e548f31670fe91935549dacf35459079142be045675fa14080a3db00c172aa",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmCuxODEAqra6ZJ9TRsPhgg1XxcUl8X+L6PIuACYwDdsKp3BheWxvYWTESpcCGsQgqeVI8xZw/pGTVUnazzVFkHkUK+BFZ1+hQICj2wDBcqrEIMzuUHseJp30RnJZgVxT10q7zUriWyoS8wc3BxY0dQxMAgHCo3NpZ8RAOklasBBnD2rpYKJwtC4Ng6VliMkHiEX2Axnu9YV2ZDjhPfy+WlKGqdedO/7eqez1QrPHo5FltZWacWbXzxYpA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH4Q54MrLUKZWXrS3D/186788NfqhYdohN4fi+VmmCcDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/meagerfindings
+
+==================================================================

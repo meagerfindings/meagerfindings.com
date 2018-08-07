@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: post
 title: Earning $900 in less than 4 hours
-date: 2018-07-13 22:57:59.000000000 -06:00
-parent_id: '0'
 excerpt_separator: <!--more-->
 ---
 
