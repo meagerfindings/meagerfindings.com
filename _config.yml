@@ -2,20 +2,19 @@
 baseurl: ""
 url: "https://meagerfindings.com"
 title: meagerfindings # site's title
-description: "adventure | faith | financial independence" # used by search engines
-
+description: "Adventures in faith, value, and financial independence." # used by search engines
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: meagerfindings # blog's title
-  avatar: #assets/img/triangle.svg
+  avatar: assets/img/meagerfindings_logo.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>adventure | faith | financial independence</p>
+     <p>Adventures in faith, value, and financial independence.</p>
   header_text_feature_image: assets/img/posts/banner-crop.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>.
@@ -55,13 +54,13 @@ theme_settings:
     pinterest:
     pocket: true
     reddit: true
-    linkedin:
+    linkedin: true
     wordpress:
     email: true
 
   # Scripts / Features
   google_analytics: "UA-121362268-1" # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: matgreten
+  disqus_shortname: meagerfindings
   katex: true # Enable if using math markup
 
   special_page:
