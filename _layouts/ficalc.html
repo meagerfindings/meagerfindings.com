@@ -16,8 +16,18 @@ layout: default
 
   	{{ content }}
 
+    <section class="post-content"></section>
+
+  <!-- Social media shares -->
+  {% include share_buttons.html %}
+
   <!-- Tag list for portfolio -->
   {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
   {% include tags_list.html tags=tag_list %}
 
 </article>
+
+<!-- isso comment section -->
+<div class="comments">
+  {% include isso.html%}
+</div>
