@@ -60,7 +60,7 @@ theme_settings:
 
   # Scripts / Features
   google_analytics: "UA-121362268-1" # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: meagerfindings
+  disqus_shortname:
   katex: true # Enable if using math markup
 
   special_page:
