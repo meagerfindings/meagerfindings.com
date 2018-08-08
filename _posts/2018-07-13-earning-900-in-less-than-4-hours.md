@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 I've heard several times that as you save, more opportunities to make more money present themselves. We've been able to see this in a large way for the first time.
 <!--more-->
 
-Right now my wife and I are in the process of saving up for a down payment for house. We have been putting the down payment into [Marcus from Goldman Sachs](https://www.marcus.com/us/en) due to their 1.5% annual percentage yield they had in January 2018. Their rate has increased to 1.8% in the last 5 months, not to shabby. (Quick tip if you sign up for Marcus... their website will allow you to sign in if you are using a VPN.) I have not found a better rate to date with zero risk and the ability to keep the entire down payment in a liquid state... until now.
+Right now my wife and I are in the process of saving up for a down payment for house. We have been putting the down payment into [Marcus from Goldman Sachs](https://www.marcus.com/us/en) due to their 1.5% annual percentage yield they had in January 2018. Their rate has increased to 1.8% in the last 5 months, not to shabby. (Quick tip if you sign up for Marcus... their website will not allow you to sign in if you are using a VPN.) I have not found a better rate to date with zero risk and the ability to keep the entire down payment in a liquid state... until now.
 
 #### Enter the Sign Up Bonus(es)
 
