@@ -13,7 +13,7 @@ layout: default
   <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser">
-      {% if post.thumbnail %} 
+      {% if post.thumbnail %}
       <div class="post-img">
          <img src="{{ site.baseurl }}/{{ post.thumbnail }}">
       </div>
@@ -26,7 +26,9 @@ layout: default
               </a>
             </h1>
             <p class="meta">
-              {{ post.date | date: "%B %-d, %Y" }}
+              {{ post.date | date: "%B %-d, %Y" }} |
+              {% if post.author %} {{ post.author}} | {% endif %}
+              {% capture time %}{{ post.content | reading_time }}{% endcapture %}{{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} to read
             </p>
           </header>
           <div class="excerpt">
