@@ -3,6 +3,7 @@ baseurl: ""
 url: "https://meagerfindings.com"
 title: meagerfindings # site's title
 description: "Adventures in faith, value, and financial independence." # used by search engines
+permalink: pretty
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -92,7 +93,6 @@ theme_settings:
 
   # Post navigation
   post_navigation: true
-
 
 # PAGINATION
 paginate: 5

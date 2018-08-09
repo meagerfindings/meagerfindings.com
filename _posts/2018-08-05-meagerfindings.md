@@ -52,6 +52,6 @@ For instance, as I approached finishing up my second bachelors degree, I began t
 
 Making the choice to show up and put the work in truly makes a difference over the course of many months.
 
-For some higher level examples, play around with my [FiCalculator](/ficalc) to see the difference that additional savings can make when compound interest is applied.
+For some higher level examples, play around with my [FiCalculator]({{ site.baseurl }}{% link ficalc/index.html %}) to see the difference that additional savings can make when compound interest is applied.
 
 There are countless additional meager findings that add up to outsized results and I hope to reveal more of these every day choices that can make all the difference.

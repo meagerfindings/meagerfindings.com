@@ -8,7 +8,7 @@ tags: [About]
 
 For ten years I have been coming back to this name, wanting to do something with it. I first thought of this name when naming my photography business while in college. I love capturing the small details of things, the small moments, or the often missed oddities in spaces around us.
 
-For more on the name, check out my post: [Meager what now?](/meager-what-now/)
+For more on the name, check out my post: [Meager what now?]({{ site.baseurl }}{% link _posts/2018-08-05-meagerfindings.md %})
 
 ## Meager Beginnings
 
