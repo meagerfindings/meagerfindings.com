@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Earning $900 in less than 4 hours
+slug: earning-900-in-less-than-4-hours
 excerpt_separator: <!--more-->
 ---
 

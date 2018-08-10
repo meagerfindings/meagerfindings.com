@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Trip Report: Backpacking the Four Pass Loop'
-date: 2018-07-12 13:56:40.000000000 -06:00
+slug: trip-report-backpacking-the-four-pass-loop
+date: 2018-07-12
 feature-img: "assets/img/posts/four_pass_loop/four_pass_featured_image.png"
-excerpt_separator: <!--more-->
 thumbnail: "assets/img/posts/four_pass_loop/four_pass_featured_image.png"
+excerpt_separator: <!--more-->
 ---
 
 ## The Four Pass Loop
