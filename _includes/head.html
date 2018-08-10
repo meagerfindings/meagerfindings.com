@@ -41,6 +41,28 @@
   </script>
   {% endif %}
 
+  <!-- Cookie consent banner from https://cookieconsent.insites.com/download/ -->
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+  <script>
+  window.addEventListener("load", function(){
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#edeff5",
+        "text": "#838391"
+      },
+      "button": {
+        "background": "#4b81e8"
+      }
+    },
+    "theme": "edgeless",
+    "content": {
+      "message": "Our website uses cookies for a few things: to allow you to comment on blog posts, track visits through Google Analytics, and display ads throughout the site."
+    }
+  })});
+</script>
+
   <!-- Google Analytics -->
   {% if site.theme_settings.google_analytics %}
   <script>
@@ -57,6 +79,7 @@
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', '{{ site.theme_settings.google_analytics }}', 'auto');
+    ga('set', 'anonymizeIp', true);
     ga('send', 'pageview');
   </script>
   {% endif %}
