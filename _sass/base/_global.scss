@@ -194,6 +194,11 @@ img[align=right] {
     li {
         font-size: 0.8em;
     }
+    // Override default mobile menu size from 0.8em
+    // Reference /_includes/navbar.html line 30
+    .menu-text-small {
+        font-size: 1.2em;
+    }
 }
 
 .wrapper {
