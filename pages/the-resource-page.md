@@ -6,12 +6,48 @@ feature-img: "assets/img/pexels/equipment.jpg"
 thumbnail: "assets/img/pexels/equipment.jpg"
 tags: [fi, resources, investing, tools]
 hide: false
-toc: true
 ---
+
+
+<!-- - [FI Resources](#fi-resources)
+	- [Banking Resources](#banking-resources)
+		- [Marcus](#marcus)
+		- [Capital One 360](#capital-one-360)
+		- [Book Resources](#book-resources)
+			- [Your Local Library](#your-local-library)
+				- [Hoopla Digital](#hoopla-digital)
+				- [Overdrive](#overdrive)
+				- [Flipster Magazine app](#flipster-magazine-app)
+			- [The Simple Path to Wealth](#the-simple-path-to-wealth)
+	- [Investing Resources](#investing-resources)
+		- [M1 Finance](#m1-finance)
+	- [Budgeting Tools](#budgeting-tools)
+		- [Mint](#mint)
+		- [Personal Capital](#personal-capital)
+	- [Podcasts](#podcasts)
+		- [Bigger Pockets Money](#bigger-pockets-money)
+		- [ChooseFI](#choosefi)
+		- [Radical Personal Finance](#radical-personal-finance)
+		- [The Money Guy Podcast](#the-money-guy-podcast)
+		- [The Side Hustle Show](#the-side-hustle-show)
+	- [Shopping Tools](#shopping-tools)
+		- [CamelCamelCamel](#camelcamelcamel)
+		- [iBotta](#ibotta)
+		- [Fakespot](#fakespot)
+		- [Fetch](#fetch)
+		- [Google Keep](#google-keep)
+	- [Technology Tools](#technology-tools)
+		- [1Password](#1password)
+		- [Excel](#excel)
+		- [Google Opinion Rewards](#google-opinion-rewards)
+		- [Tunnel Bear VPN](#tunnel-bear-vpn) -->
+
+
+# FI Resources
 
 ## Banking Resources
 
-### [Marcus](https://www.marcus.com/us/en)
+### Marcus
 
 We currently keep our savings for our downpayment in an online savings account at [Marcus by Goldman Sachs](https://www.marcus.com/us/en). There is no minimum deposit, no monthly minimum, and no transaction fees.
 
@@ -19,7 +55,7 @@ We currently keep our savings for our downpayment in an online savings account a
 
 _Quick tip if you sign up for Marcus… their website will not allow you to sign in if you are using a VPN._
 
-### [Capital One 360](https://www.capitalone.com/bank/savings-accounts/online-savings-account/)
+### Capital One 360
 
 I've been using this online savings account back since it was ING Direct and had an annual return rate of 3%, boy have things changed since then. The account has changed names a few times and is currently [Capital One 360 Savings](https://www.capitalone.com/bank/savings-accounts/online-savings-account/). The current savings rate is 1%, there are no fees, and there is no minimum balance.
 
@@ -47,22 +83,22 @@ _Granted you could get those book used, or cheaper but the library still provide
 
 You might be surprised, your library may even carry some FI focused books. Ours carries a few copies of [Set for Life](https://amzn.to/2KHue65) by Scott Trench.
 
-##### [Hoopla Digital](https://www.hoopladigital.com/)
+##### Hoopla Digital
 
 Check with your local library, they may provide free electronic content on [Hoopla Digital](https://www.hoopladigital.com/). Hoopla offers movies, music, audiobooks, ebooks, comics and TV shows all from your phone, tablet or computer.
 
-##### [Overdrive](https://www.overdrive.com/)
+##### Overdrive
 
 Also through your local library. Browse, place holds on and checkout audiobooks and eBooks with [Overdrive](https://www.overdrive.com/). A stronger audiobook app than Hoopla, tends to crash a lot less often on Android. Checkout the ebook on your phone through Overdrive and have it immediately delivered to your [Kindle](https://amzn.to/2KOOa7v).
 
 My library locked down the request a book feature from the app, I may have abused this, but I can still fill out a form to request new digital content. It looks like each library customizes their settings for the app so you may still have the option to request new items directly from the app for your local library.
 
-##### [Flipster Magazine app](https://flipster.ebsco.com/)
+##### Flipster Magazine app
 
 Another app that your local library may provide. [Flipster](https://flipster.ebsco.com/) allows you to browse and download various magazines. Our library in the middle of nowhere provides several backpacking, outdoor, and local Denver area magazines saving upwards of $24 a year per magazine if we were to subscribe to the magazine or much more if we were to buy them in the checkouts.
 
 
-#### [The Simple Path to Wealth](https://amzn.to/2OX3FgE)
+#### The Simple Path to Wealth
 
 Pickup a copy of [The Simple Path to Wealth](https://amzn.to/2OX3FgE) by J.L. Collins for some solid thinking on keeping your investments simple, reasons to pursue FI, and why and how to invest in low fee, broad based index funds. J.L. Collins also makes this information freely [available on his website](https://jlcollinsnh.com/stock-series/) in a longer, online version.
 
@@ -70,7 +106,7 @@ Pickup a copy of [The Simple Path to Wealth](https://amzn.to/2OX3FgE) by J.L. Co
 
 ## Investing Resources
 
-### [M1 Finance](https://mbsy.co/mGmjq)
+### M1 Finance
 
 [M1 Finance](https://mbsy.co/mGmjq) allows you to setup "pies"  comprised of different funds, stocks, bonds. You can choose from their target allocation pies or create your own. You can even have sub-pies.
 
@@ -88,7 +124,7 @@ Sign up with [my referral link](https://mbsy.co/mGmjq) and you'll get $10 to sta
 
 ## Budgeting Tools
 
-### [Mint](https://www.mint.com/)
+### Mint
 
 One of the biggest things in controlling your finances is knowing where your money goes. Once you hook up [Mint](https://www.mint.com/) to the bank accounts you used to spend money you can automatically track all of your outgoing expenses. If you make any cash purchases you simply add those in using their easy to use interface.
 
@@ -98,7 +134,7 @@ This _free_ resource allows you to export all of your transactions in a `.csv` f
 
 **Best Feature:** Set it and forget it. Once setup you can simply go about business as usual and then check in to see where your money has been going.
 
-### [Personal Capital](https://www.personalcapital.com/)
+### Personal Capital
 
 Like [Mint](#mint), Personal Capital helps you track your expenses and bank accounts. I mainly use [Personal Capital](https://www.personalcapital.com/) to track our investment accounts as it keeps individual historical records of each account from the time you sync up to your banks and allows you to see an aggregate view of all of your accounts. This is net worth tracking made easy.
 
@@ -108,53 +144,53 @@ Like [Mint](#mint), Personal Capital helps you track your expenses and bank acco
 
 ## Podcasts
 
-### [Bigger Pockets Money](https://www.biggerpockets.com/moneyshow)
+### Bigger Pockets Money
 
 Interviews with all the biggest and smallest names in FI. [Bigger Pockets Money](https://www.biggerpockets.com/moneyshow) shows out weekly on Monday mornings.
 
-### [ChooseFI](https://www.choosefi.com/)
+### ChooseFI
 
 This is the show that really made reaching for FI seem truly approachable. [ChooseFI](https://www.choosefi.com/) is released bi-weekly with fresh interviews on Monday mornings and roundup/community news episodes on Friday mornings.
 
-### [Radical Personal Finance](https://radicalpersonalfinance.com/)
+### Radical Personal Finance
 
 [Radical Personal Finance](https://radicalpersonalfinance.com/) lives up to the name. At times it can get quite out there in terms of radical suggestions or Christian Theology. Refreshing takes on finances and life from a veteran financial planner and CPA.
 
 
-### [The Money Guy Podcast](https://www.moneyguy.com/)
+### The Money Guy Podcast
 
 A great all around Financial podcast on investing. Even if you are not pursuing FI, [the Money Guy Podcast](https://www.moneyguy.com/) has loads of applicable advice for anytime in your investing life.
 
-### [The Side Hustle Show](https://www.sidehustlenation.com/side-hustle-show/)
+### The Side Hustle Show
 
 [The Side Hustle Show](https://www.sidehustlenation.com/side-hustle-show/) provides hundreds of interviews with successful entrepreneurs from around the country. This is a goldmine of ideas and inspiration.
 
 ---
 ## Shopping Tools
 
-### [CamelCamelCamel](https://camelcamelcamel.com/)
+### CamelCamelCamel
 
 A delightfully odd name, that makes a little sense. Like a camel's humps, prices on Amazon.com go up and down over time. Pop an Amazon URL or keyword into [CamelCamelCamel](https://camelcamelcamel.com/) to see historical prices for items on Amazon to make sure you're not buying at a possible peak.
 
 **Best feature:** If you create an account on [CamelCamelCamel](https://camelcamelcamel.com/), you can have the site track your public Amazon wishlists by entering in their public URLs. This allows you to get email notifications when items on your wishlists fall below a set price or percentage of difference from the normal price. You can set this up for oil and oil filters for your car and stock up when the price is at its lowest.
 
-### [iBotta](https://ibotta.com/r/cbvrhqr)
+### iBotta
 
 My wife and I have earned $80+ through [iBotta](https://ibotta.com/r/cbvrhqr) over the last 2 years for only a few minutes of our time.
 
 Claim offers, go shopping, scan your receipt with the app, and you'll earn credits to your account. Cash-out with PayPal or other services. Use my [referral code](https://ibotta.com/r/cbvrhqr) for a $10 start.
 
-### [Fakespot](https://www.fakespot.com/)
+### Fakespot
 
 Something have rave reviews on Amazon that seem to good to be true? Simply post an Amazon url into [Fakespot](https://www.fakespot.com/) to get a review of the reviews on the Amazon item's page and you'll get an analysis of the reviews to see if they have tell-tale markers of being fraudulent. A great last step in your Amazon checkout process.
 
-### [Fetch](https://bit.ly/2HnQVuw)
+### Fetch
 
 Like [iBotta](#ibotta), [Fetch](https://bit.ly/2HnQVuw) allows you to turn your grocery receipts into rewards. I'm newer to this service and I have not cashed out yet. Fetch allows you to simply scan the receipt, no survey to fill out, no video to watch, no rebate to apply. Just scan your receipt and it credits you with points.
 
 Enter my referral code, `GC4DW` at the sign-up screen and you'll get 2,000 Fetch Points ($2.00 in points!) when you complete one receipt.
 
-### [Google Keep](https://keep.google.com/)
+### Google Keep
 
 We use [Google Keep](https://keep.google.com/) to house our collaborative grocery list and weekly meal plans. Google recently updated the app on Android to suggest common grocery items in a grocery list as well and it does a decent job there.
 
@@ -162,7 +198,7 @@ We use [Google Keep](https://keep.google.com/) to house our collaborative grocer
 
 ## Technology Tools
 
-### [1Password](https://1password.com/)
+### 1Password
 
 Password reuse is one of the easiest ways for nefarious folks to get into your accounts or steal your money. [1Password](https://1password.com/) enables you to securely generate, store, and access all of your passwords from any of your devices. I have been using their service for nearly 10 years and can't imagine navigating online banking, e-commerce sites, investment accounts, email, or any other site without this truly amazing tool. You can easily generate complex, and [more importantly, long](https://www.grc.com/haystack.htm)  passwords for each site you visit.
 
@@ -174,11 +210,11 @@ Excel really is a no brainer due to it's market prominence and either the joy or
 
 [Office Libre](https://www.libreoffice.org/) provides an open-source, non-google, desktop alternative to Excel, however if Excel is your daily driver, the differences can be painful here, the same can be said of [Google Sheets](https://www.google.com/sheets/about/) as well.
 
-### [Google Opinion Rewards](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks)
+### Google Opinion Rewards
 _Only applicable for Android users._
 
 Interested in receiving Google Play Store credit for completing short surveys based on recent purchases or places you have visited? If so, [Google Opinion Rewards](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) is the app for you. I have received $32 since September of last year, a smaller amount than my other friends using this app. The credits you earn can be used to for any purchase you make on the Google Play Store.
 
-### [Tunnel Bear VPN](https://www.tunnelbear.com/)
+### Tunnel Bear VPN
 
 [Tunnelbear](https://www.tunnelbear.com/) allows me to bank, research, and interact with the internet without putting on a tinfoil hat. This VPN provider is vetted by external third-parties, is easy to use, and works on every OS for both phones and computers. Using a VPN is a great way to help ensure your connection between your bank and your browser are secure.
