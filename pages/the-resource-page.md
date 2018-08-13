@@ -163,6 +163,18 @@ My wife and I have earned $80+ through [iBotta](https://ibotta.com/r/cbvrhqr) ov
 
 Claim offers, go shopping, scan your receipt with the app, and you'll earn credits to your account. Cash-out with PayPal or other services. Use my [referral code](https://ibotta.com/r/cbvrhqr) for a $10 start.
 
+### Do$h
+
+[Do$h](https://link.dosh.cash/OE9KleNfmP) allows you to link your credit card and they provide cash-back on purchases you make at several large retailers and restaurants.
+
+**Best feature:** You can hook up your credit card without linking your bank or using your bank credentials. Helps with security in terms of keeping your money safe. Granted, you are getting rewarded by recording your purchase history.
+
+
+### Drop
+
+Link a credit card or debit card to [Drop](https://b.ewd.io/code?c=e6ymo) to get cash back at select retailers. _Use your best judgment here as it requires hooking up to your bank account._
+
+
 ### Fakespot
 
 Something have rave reviews on Amazon that seem to good to be true? Simply post an Amazon url into [Fakespot](https://www.fakespot.com/) to get a review of the reviews on the Amazon item's page and you'll get an analysis of the reviews to see if they have tell-tale markers of being fraudulent. A great last step in your Amazon checkout process.
@@ -176,6 +188,10 @@ Enter my referral code, `GC4DW` at the sign-up screen and you'll get 2,000 Fetch
 ### Google Keep
 
 We use [Google Keep](https://keep.google.com/) to house our collaborative grocery list and weekly meal plans. Google recently updated the app on Android to suggest common grocery items in a grocery list as well and it does a decent job there.
+
+### Trim
+
+Hook up [Trim](https://go.asktrim.com/) to your bank account and it will notify you of large purchases, potentially alerting you to fraud, your bank may have something like this that you can enable without using a third party. Trim also promises to help negotiate your Comcast bill down and can also help get refunds for you when your Amazon packages do not arrive on time. _Use your best judgment here as it requires hooking up to your bank account._
 
 ---
 
