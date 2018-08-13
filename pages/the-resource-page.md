@@ -69,24 +69,6 @@ Pickup a copy of [The Simple Path to Wealth](https://amzn.to/2OX3FgE) by J.L. Co
 
 ---
 
-## Investing Resources
-
-### M1 Finance
-
-[M1 Finance](https://mbsy.co/mGmjq) allows you to setup "pies"  comprised of different funds, stocks, bonds. You can choose from their target allocation pies or create your own. You can even have sub-pies.
-
-[M1](https://mbsy.co/mGmjq) allows you to purchase partial shares of stocks, bonds, and mutual funds. This means that if you don't have enough money to invest into a particular fund, you can still invest into it partially.
-
-Currently our emergency fund is within M1 for a few reasons:
-1. This controversial and thought provoking [Choose FI interview](https://www.choosefi.com/066-the-emergency-fund/).
-2. We have a stupid amount of money in a liquid state as we save up for a house down payment.
-
-**Best feature:** Partial shares since this allows us to have less cash sitting, waiting to be invested.
-
-Sign up with [my referral link](https://mbsy.co/mGmjq) and you'll get $10 to start investing with.
-
----
-
 ## Budgeting Tools
 
 ### Mint
@@ -104,6 +86,42 @@ This _free_ resource allows you to export all of your transactions in a `.csv` f
 Like [Mint](#mint), Personal Capital helps you track your expenses and bank accounts. I mainly use [Personal Capital](https://www.personalcapital.com/) to track our investment accounts as it keeps individual historical records of each account from the time you sync up to your banks and allows you to see an aggregate view of all of your accounts. This is net worth tracking made easy.
 
 **Best feature:** Fee analyzer. Once your accounts are hooked up and importing data, you can click on _Planning_ and then _Retirement Fee Analyzer_ to analyze the fees you are paying on each account and see what the cumulative affect, projected over years will be. If you already know what these fees can do ++link to 1% article++, then these at least help you see all the of fees you are being charged in one place. You can filter the accounts as well in the projections.
+
+---
+
+## Cell Phone resources
+
+### Google Project Fi
+
+Get the combined benefit having T-Mobile, Sprint, and U.S. Cellular when you use [Google's Project Fi](https://fi.google.com/about/). First line is $20 and each GB used after that is $10. This can be very cheap if you use little data, but costs skyrocket if you use a lot of data. You only pay for what you use data-wise.
+
+I was able to get by on using 0.4 GB of data per month since I am on wifi at most times.
+
+### Mint Mobile
+
+[Mint Mobil](https://www.mintmobile.com/) starts at $15 month for 2GB of data. This is another MVMO using only T-Mobile's network. If you go over you can add more data or have your connection throttled.
+
+Since I use less than 1GB of data per month this is an obvious choice for me as it winds up being cheaper than [Google's Project Fi](#google-project-fi) without me having to squeeze megabytes.
+
+My wife uses more data than me and we have her on a $20 a month plan with 5GB of data.
+
+---
+
+## Investing Resources
+
+### M1 Finance
+
+[M1 Finance](https://mbsy.co/mGmjq) allows you to setup "pies"  comprised of different funds, stocks, bonds. You can choose from their target allocation pies or create your own. You can even have sub-pies.
+
+[M1](https://mbsy.co/mGmjq) allows you to purchase partial shares of stocks, bonds, and mutual funds. This means that if you don't have enough money to invest into a particular fund, you can still invest into it partially.
+
+Currently our emergency fund is within M1 for a few reasons:
+1. This controversial and thought provoking [Choose FI interview](https://www.choosefi.com/066-the-emergency-fund/).
+2. We have a stupid amount of money in a liquid state as we save up for a house down payment.
+
+**Best feature:** Partial shares since this allows us to have less cash sitting, waiting to be invested.
+
+Sign up with [my referral link](https://mbsy.co/mGmjq) and you'll get $10 to start investing with.
 
 ---
 
