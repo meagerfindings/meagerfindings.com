@@ -7,7 +7,12 @@ thumbnail: "assets/img/pexels/satchel.jpg"
 tags: [fi, resources, investing, tools]
 hide: false
 toc: false
+excerpt_separator:
 ---
+
+Day in and day out, these are the resources we rely upon to save money, earn money, and invest money.
+
+<!--more-->
 
 ## Banking Resources
 
@@ -34,7 +39,7 @@ We use these sub-accounts as "envelopes" for our known big-expenditures and auto
 
 #### Your Local Library
 
-Endless amounts of books, cds, audiobooks, blurays, dvds, and magazines. Between our library's physical and online resources, I read/listened to 72 books for free in one year. Let's say that was 36 new books at $20 a pop and 36 audiobooks at $25 a book...
+Endless amounts of books, cds, audiobooks, blu-rays, dvds, and magazines. Between our library's physical and online resources, I read/listened to 72 books for free in one year. Let's say that was 36 new books at $20 a pop and 36 audiobooks at $25 a book...
 
 ```
 books = 36 * $20 = $720
@@ -77,7 +82,7 @@ Pickup a copy of [The Simple Path to Wealth](https://amzn.to/2OX3FgE) by J.L. Co
 [M1](https://mbsy.co/mGmjq) allows you to purchase partial shares of stocks, bonds, and mutual funds. This means that if you don't have enough money to invest into a particular fund, you can still invest into it partially.
 
 Currently our emergency fund is within M1 for a few reasons:
-1. This controversial and thought provoking choose fi interview.
+1. This controversial and thought provoking [Choose FI interview](https://www.choosefi.com/066-the-emergency-fund/).
 2. We have a stupid amount of money in a liquid state as we save up for a house down payment.
 
 **Best feature:** Partial shares since this allows us to have less cash sitting, waiting to be invested.
@@ -110,20 +115,20 @@ Like [Mint](#mint), Personal Capital helps you track your expenses and bank acco
 
 ### [Bigger Pockets Money](https://www.biggerpockets.com/moneyshow)
 
-Interviews with all the biggest and smallest names in FI. Comes out weekly on Monday mornings.
+Interviews with all the biggest and smallest names in FI. [Bigger Pockets Money](https://www.biggerpockets.com/moneyshow) shows out weekly on Monday mornings.
 
 ### [ChooseFI](https://www.choosefi.com/)
 
 This is the show that really made reaching for FI seem truly approachable. [ChooseFI](https://www.choosefi.com/) is released bi-weekly with fresh interviews on Monday mornings and roundup/community news episodes on Friday mornings.
 
-### Radical Personal Finance
+### [Radical Personal Finance](https://radicalpersonalfinance.com/)
 
-This one lives up to the name. At times it can get quite out there in terms of radical suggestions or Christian Theology. Refreshing takes on finances and life from a veteran financial planner and CPA.
+[Radical Personal Finance](https://radicalpersonalfinance.com/) lives up to the name. At times it can get quite out there in terms of radical suggestions or Christian Theology. Refreshing takes on finances and life from a veteran financial planner and CPA.
 
 
 ### [The Money Guy Podcast](https://www.moneyguy.com/)
 
-A great all around Financial podcast on investing. Even if you are not pursuing FI, this podcast has loads of applicable advice for anytime in your investing life.
+A great all around Financial podcast on investing. Even if you are not pursuing FI, [the Money Guy Podcast](https://www.moneyguy.com/) has loads of applicable advice for anytime in your investing life.
 
 ### [The Side Hustle Show](https://www.sidehustlenation.com/side-hustle-show/)
 
@@ -134,7 +139,7 @@ A great all around Financial podcast on investing. Even if you are not pursuing 
 
 ### [CamelCamelCamel](https://camelcamelcamel.com/)
 
-A delightfully odd name, that makes a little sense. Like a camel's humps, prices on Amazon.com go up and down over time. Pop in an Amazon URL or keywords to see historical prices for items on Amazon to make sure you're not buying at a possible peak.
+A delightfully odd name, that makes a little sense. Like a camel's humps, prices on Amazon.com go up and down over time. Pop an Amazon URL or keyword into [CamelCamelCamel](https://camelcamelcamel.com/) to see historical prices for items on Amazon to make sure you're not buying at a possible peak.
 
 **Best feature:** If you create an account on [CamelCamelCamel](https://camelcamelcamel.com/), you can have the site track your public Amazon wishlists by entering in their public URLs. This allows you to get email notifications when items on your wishlists fall below a set price or percentage of difference from the normal price. You can set this up for oil and oil filters for your car and stock up when the price is at its lowest.
 
