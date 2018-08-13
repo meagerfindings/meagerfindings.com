@@ -8,40 +8,6 @@ tags: [fi, resources, investing, tools]
 hide: false
 ---
 
-
-<!-- - [FI Resources](#fi-resources)
-	- [Banking Resources](#banking-resources)
-		- [Marcus](#marcus)
-		- [Capital One 360](#capital-one-360)
-		- [Book Resources](#book-resources)
-			- [Your Local Library](#your-local-library)
-				- [Hoopla Digital](#hoopla-digital)
-				- [Overdrive](#overdrive)
-				- [Flipster Magazine app](#flipster-magazine-app)
-			- [The Simple Path to Wealth](#the-simple-path-to-wealth)
-	- [Investing Resources](#investing-resources)
-		- [M1 Finance](#m1-finance)
-	- [Budgeting Tools](#budgeting-tools)
-		- [Mint](#mint)
-		- [Personal Capital](#personal-capital)
-	- [Podcasts](#podcasts)
-		- [Bigger Pockets Money](#bigger-pockets-money)
-		- [ChooseFI](#choosefi)
-		- [Radical Personal Finance](#radical-personal-finance)
-		- [The Money Guy Podcast](#the-money-guy-podcast)
-		- [The Side Hustle Show](#the-side-hustle-show)
-	- [Shopping Tools](#shopping-tools)
-		- [CamelCamelCamel](#camelcamelcamel)
-		- [iBotta](#ibotta)
-		- [Fakespot](#fakespot)
-		- [Fetch](#fetch)
-		- [Google Keep](#google-keep)
-	- [Technology Tools](#technology-tools)
-		- [1Password](#1password)
-		- [Excel](#excel)
-		- [Google Opinion Rewards](#google-opinion-rewards)
-		- [Tunnel Bear VPN](#tunnel-bear-vpn) -->
-
 # FI Resources
 
 ## Banking Resources
