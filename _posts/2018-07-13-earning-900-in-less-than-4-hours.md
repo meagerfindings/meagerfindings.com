@@ -2,6 +2,8 @@
 layout: post
 title: Earning $900 in less than 4 hours
 slug: earning-900-in-less-than-4-hours
+feature-img: "assets/img/unsplash/100s.jpeg"
+thumbnail: "assets/img/unsplash/100s.jpeg"
 excerpt_separator: <!--more-->
 ---
 
