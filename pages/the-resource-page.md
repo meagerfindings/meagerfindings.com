@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_with_toc
 title: Resources
 permalink: /resources/
 feature-img: "assets/img/pexels/equipment.jpg"
@@ -41,7 +41,6 @@ hide: false
 		- [Excel](#excel)
 		- [Google Opinion Rewards](#google-opinion-rewards)
 		- [Tunnel Bear VPN](#tunnel-bear-vpn) -->
-
 
 # FI Resources
 
@@ -217,4 +216,6 @@ Interested in receiving Google Play Store credit for completing short surveys ba
 
 ### Tunnel Bear VPN
 
-[Tunnelbear](https://www.tunnelbear.com/) allows me to bank, research, and interact with the internet without putting on a tinfoil hat. This VPN provider is vetted by external third-parties, is easy to use, and works on every OS for both phones and computers. Using a VPN is a great way to help ensure your connection between your bank and your browser are secure.
+[Tunnelbear](https://click.tunnelbear.com/aff_c?offer_id=36&aff_id=6226) allows me to bank, research, and interact with the internet without putting on a tinfoil hat. This VPN provider is vetted by external third-parties, is easy to use, and works on every OS for both phones and computers. Using a VPN is a great way to help ensure your connection between your bank and your browser are secure.
+
+{% include tunnel_bear.html %}
