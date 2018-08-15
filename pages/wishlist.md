@@ -49,7 +49,10 @@ _For any Amazon e-books given as gifts, you can select **Give as a Gift** ([Scre
 - [AmazonBasics Packable Travel Duffel, 23-inch, Black](https://amzn.to/2uzkRQI) - $20
 - Workout Shorts
 - [Amazon Essentials Men's Relaxed-Fit Jogger Pant](https://amzn.to/2LoJfhy) - $20
-- Lifting chalk
-- Fractional weight plates
-- [Pioneer Lifting Belt](https://generalleathercraft.com/product/pioneer-cut-10mm-thick-4-power-lifting-belt-copy/) - $90+
+- [Liquid Lifting chalk](https://amzn.to/2vNepWV) - $20ish
+- [Fractional weight plates](https://ironwoodyfitness.com/product/olympic-2-inch-fractional-plates/) - $25
+- Barbell
+  - [Rogue B&R Bar 2.0](https://www.roguefitness.com/rogue-29mm-burgener-rippetoe-bar-2-0) - $295
+  - [Rogue Chan Bar](https://www.roguefitness.com/rogue-chan-bar) - $295
 - [Titan Fitness: Power Squat Rack](https://amzn.to/2L6iHSZ) - $380
+- [Pioneer Lifting Belt](https://generalleathercraft.com/product/pioneer-cut-10mm-thick-4-power-lifting-belt-copy/) - $90+
