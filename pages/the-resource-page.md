@@ -99,11 +99,13 @@ I was able to get by on using 0.4 GB of data per month since I am on wifi at mos
 
 ### Mint Mobile
 
-[Mint Mobil](https://www.mintmobile.com/) starts at $15 month for 2GB of data. This is another MVMO using only T-Mobile's network. If you go over you can add more data or have your connection throttled.
+[Mint Mobile](https://mint-mobile.pxf.io/c/1283568/444520/7915) starts at $15 month for 2GB of data. This is another MVMO using only T-Mobile's network. If you go over you can add more data or have your connection throttled.
 
 Since I use less than 1GB of data per month this is an obvious choice for me as it winds up being cheaper than [Google's Project Fi](#google-project-fi) without me having to squeeze megabytes.
 
 My wife uses more data than me and we have her on a $20 a month plan with 5GB of data.
+
+{% include mint_mobile.html %}
 
 ---
 
