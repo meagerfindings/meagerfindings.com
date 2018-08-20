@@ -93,6 +93,8 @@ Like [Mint](#mint), Personal Capital helps you track your expenses and bank acco
 
 ## Cell Phone resources
 
+For our in-depth review of both Google's Project Fi and Mint Mobile, check out our article: [Saving Money on Cell Phone Plans]({{ site.baseurl }}{% link _posts/2018-08-18-saving-money-on-cell-phone-plans.md %}).
+
 ### Google Project Fi
 
 Get the combined benefit having T-Mobile, Sprint, and U.S. Cellular when you use [Google's Project Fi](https://fi.google.com/about/). First line is $20 and each GB used after that is $10. This can be very cheap if you use little data, but costs skyrocket if you use a lot of data. You only pay for what you use data-wise.
