@@ -10,6 +10,8 @@ hide: false
 
 # FI Resources
 
+_Many of the links to resources, websites, and on this page are affiliate links which may provide financial compensation if you click on them or sign up for accounts or services._
+
 ## Banking Resources
 
 ### Marcus
