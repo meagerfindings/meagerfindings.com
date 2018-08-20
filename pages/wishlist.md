@@ -56,3 +56,5 @@ _For any Amazon e-books given as gifts, you can select **Give as a Gift** ([Scre
   - [Rogue Chan Bar](https://www.roguefitness.com/rogue-chan-bar) - $295
 - [Titan Fitness: Power Squat Rack](https://amzn.to/2L6iHSZ) - $380
 - [Pioneer Lifting Belt](https://generalleathercraft.com/product/pioneer-cut-10mm-thick-4-power-lifting-belt-copy/) - $90+
+- [The Genesis Jack](https://www.genesisjack.com/shop/genesis-jack) - $89
+  - A small, lightweight deadlift jack.
