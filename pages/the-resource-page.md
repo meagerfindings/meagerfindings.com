@@ -10,7 +10,7 @@ hide: false
 
 # FI Resources
 
-_Many of the links to resources, websites, and on this page are affiliate links which may provide financial compensation if you click on them or sign up for accounts or services._
+We either use or have used each of the resources on this page. _Many of the links to resources, websites, and on this page are affiliate links which may provide financial compensation to us if you click on them or sign up for accounts or services._ This list is actively maintained and will only contain links to services which we can recommend in good conscience. Resources do not pay to get listed here, but rather, when we find a service we like and can endorse we place it here. If the company wants to make it a formal relationship that is welcome, however we will not recommend anything we cannot stand behind here.
 
 ## Banking Resources
 
