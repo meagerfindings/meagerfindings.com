@@ -64,7 +64,6 @@ My library locked down the request a book feature from the app, I may have abuse
 
 Another app that your local library may provide. [Flipster](https://flipster.ebsco.com/) allows you to browse and download various magazines. Our library in the middle of nowhere provides several backpacking, outdoor, and local Denver area magazines saving upwards of $24 a year per magazine if we were to subscribe to the magazine or much more if we were to buy them in the checkouts.
 
-
 #### The Simple Path to Wealth
 
 Pickup a copy of [The Simple Path to Wealth](https://amzn.to/2OX3FgE) by J.L. Collins for some solid thinking on keeping your investments simple, reasons to pursue FI, and why and how to invest in low fee, broad based index funds. J.L. Collins also makes this information freely [available on his website](https://jlcollinsnh.com/stock-series/) in a longer, online version.
@@ -116,6 +115,14 @@ My wife uses more data than me and we have her on a $20 a month plan with 5GB of
 ---
 
 ## Investing Resources
+
+### Blooom
+
+[Blooom](https://track.flexlinkspro.com/a.ashx?foid=1137348.139815407&foc=1&fot=9999&fos=1) offers a free 401k / retirement plan checkup that aims to simplify what can be overwhelming. If you don't want to get into the nitty gritty of asset allocation, [Blooom](https://track.flexlinkspro.com/a.ashx?foid=1137348.139815407&foc=1&fot=9999&fos=1) can help out by suggesting the changes that match your risk and investing profile, this is all for free.
+
+If you want to take it a step further with [Blooom](https://track.flexlinkspro.com/a.ashx?foid=1137348.139815407&foc=1&fot=9999&fos=1), you can pay $10 per month to have their algorithms and advisors keep your portfolio in balance and under observation. Blooom's websites states that they are bound as Fiduciaries to look after your interests first as fee-only-advisors. Blooom bills itself as the financial planner for those of us without a million dollars in assets, that's us! We aren't using Blooom as our financial planners however I ran one of my more complicated accounts through this service and it nailed every aspect I would hope it would.
+
+_In order to use Blooom's services, you will have to enter your credentials to your financial institutions. Please evaluate Blooom's security to see if it up to your standards._
 
 ### M1 Finance
 
