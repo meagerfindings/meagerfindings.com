@@ -85,9 +85,11 @@ This _free_ resource allows you to export all of your transactions in a `.csv` f
 
 ### Personal Capital
 
-Like [Mint](#mint), Personal Capital helps you track your expenses and bank accounts. I mainly use [Personal Capital](https://www.personalcapital.com/) to track our investment accounts as it keeps individual historical records of each account from the time you sync up to your banks and allows you to see an aggregate view of all of your accounts. This is net worth tracking made easy.
+Like [Mint](#mint), Personal Capital helps you track your expenses and bank accounts. I mainly use [Personal Capital](https://track.flexlinkspro.com/a.ashx?foid=1137348.139234346&foc=1&fot=9999&fos=1) to track our investment accounts as it keeps individual historical records of each account from the time you sync up to your banks and allows you to see an aggregate view of all of your accounts. This is net worth tracking made easy.
 
 **Best feature:** Fee analyzer. Once your accounts are hooked up and importing data, you can click on _Planning_ and then _Retirement Fee Analyzer_ to analyze the fees you are paying on each account and see what the cumulative affect, projected over years will be. If you already know what these fees can do ++link to 1% article++, then these at least help you see all the of fees you are being charged in one place. You can filter the accounts as well in the projections.
+
+{% include personal_capital.html %}
 
 ---
 
