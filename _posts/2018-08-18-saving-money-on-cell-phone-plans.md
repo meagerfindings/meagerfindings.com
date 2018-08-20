@@ -9,7 +9,7 @@ tags: [cellphones, frugal, saving, google project fi, mint mobile, wireless, bil
 hide: true
 ---
 
-Cell phone plans, love 'em or hate 'em. They are simultaneously a blessing and curse.
+Cell phone plans, love 'em or hate 'em, lets explore some options on slashing your phone bill.
 
 ## Verizon
 
