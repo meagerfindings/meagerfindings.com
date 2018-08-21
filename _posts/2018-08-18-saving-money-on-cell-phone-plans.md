@@ -17,9 +17,9 @@ When we got married in 2011, Kate and I combined as many services, utilities, an
 
 ## Google Project Fi
 
-Google's aptly named [Project Fi](https://fi.google.com/) started off as an experiment that quickly gained traction and seems like it is around to stay.
+Google's aptly named [Project Fi](https://g.co/fi/r/CR9401) started off as an experiment that quickly gained traction and seems like it is around to stay.
 
-[Project Fi](https://fi.google.com/) is a [mobile virtual network operator (MVNO](https://en.wikipedia.org/wiki/Mobile_virtual_network_operator), meaning that Google buys the ability to provide wireless cell service from other, already existing companies. Think of it as pay-to-play telecom towers or Infrastructure-as-a-Service (IaaS). Cool, what's all that mean to the consumer? Well, Google is just leasing time/space on existing networks/infrastructure, which substantially decreases the cost of running and Internet Service Provider or Wireless Cell Provider. In the kindness of their hearts, Google passes these savings on to the consumer, or maybe they just want to look into more of our communications, but either way, this is a vastly cheaper option than your standard Verizon, Sprint, T-Mobile, or AT&T options.
+[Project Fi](https://g.co/fi/r/CR9401) is a [mobile virtual network operator (MVNO](https://en.wikipedia.org/wiki/Mobile_virtual_network_operator), meaning that Google buys the ability to provide wireless cell service from other, already existing companies. Think of it as pay-to-play telecom towers or Infrastructure-as-a-Service (IaaS). Cool, what's all that mean to the consumer? Well, Google is just leasing time/space on existing networks/infrastructure, which substantially decreases the cost of running and Internet Service Provider or Wireless Cell Provider. In the kindness of their hearts, Google passes these savings on to the consumer, or maybe they just want to look into more of our communications, but either way, this is a vastly cheaper option than your standard Verizon, Sprint, T-Mobile, or AT&T options.
 
 ### How much cheaper?
 
@@ -118,6 +118,8 @@ Verizon ate my phone number when I left them and Google's Support reps did every
 
 I no longer have active referrals for Fi since we left, but their generous $30 referral program paid for a month or two of Fi for us.
 
+_Edit: it looks like [my referral](https://g.co/fi/r/CR9401) may still work to get you a discount at least though! Give it a shot: https://g.co/fi/r/CR9401._
+
 #### Con: Google could Deprecate Fi at Any time
 
 Google has a long history of killing of Products that niche groups of consumers love. This is usually when the products either don't return a profit or don't fit with their revised larger roadmap/goals. That being said, Project Fi continues to gain market share and seems to fit with the company's current goals. I don't see this as a real threat at the moment, but it is something to be aware of.
@@ -162,7 +164,7 @@ Mint has kindly allowed me to have an affiliate link to their site. This post wa
 
 ## FI Cell Plans
 
-Whether you check out [Project Fi](https://fi.google.com/), [Mint Mobile](https://mint-mobile.pxf.io/c/1283568/444520/7915), or someone else, I would recommend that you reevaluate what you are paying for cell service and whether or not you are getting the same amount of value you can get elsewhere. I was afraid to make the jump for fear of disconnected calls, offers that were to good to be true, and just general fear of the unknown, however I have absolutely no regrets for taking control of our cell phone plans. It doesn't have to look like it does with us, but hopefully you can pick up a meagerfinding or two from our personal journey with cell service providers.
+Whether you check out [Project Fi](https://g.co/fi/r/CR9401), [Mint Mobile](https://mint-mobile.pxf.io/c/1283568/444520/7915), or someone else, I would recommend that you reevaluate what you are paying for cell service and whether or not you are getting the same amount of value you can get elsewhere. I was afraid to make the jump for fear of disconnected calls, offers that were to good to be true, and just general fear of the unknown, however I have absolutely no regrets for taking control of our cell phone plans. It doesn't have to look like it does with us, but hopefully you can pick up a meagerfinding or two from our personal journey with cell service providers.
 
 Let me know in the comments if you've been able to slash your cell service bills or if you have any tips on this subject!
 

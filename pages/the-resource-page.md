@@ -98,7 +98,7 @@ For our in-depth review of both Google's Project Fi and Mint Mobile, check out o
 
 ### Google Project Fi
 
-Get the combined benefit having T-Mobile, Sprint, and U.S. Cellular when you use [Google's Project Fi](https://fi.google.com/about/). First line is $20 and each GB used after that is $10. This can be very cheap if you use little data, but costs skyrocket if you use a lot of data. You only pay for what you use data-wise.
+Get the combined benefit having T-Mobile, Sprint, and U.S. Cellular when you use [Google's Project Fi](https://g.co/fi/r/CR9401). First line is $20 and each GB used after that is $10. This can be very cheap if you use little data, but costs skyrocket if you use a lot of data. You only pay for what you use data-wise.
 
 I was able to get by on using 0.4 GB of data per month since I am on wifi at most times.
 
