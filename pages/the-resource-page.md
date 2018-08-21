@@ -206,7 +206,9 @@ We use [Google Keep](https://keep.google.com/) to house our collaborative grocer
 
 ### Trim
 
-Hook up [Trim](https://go.asktrim.com/) to your bank account and it will notify you of large purchases, potentially alerting you to fraud, your bank may have something like this that you can enable without using a third party. Trim also promises to help negotiate your Comcast bill down and can also help get refunds for you when your Amazon packages do not arrive on time. _Use your best judgment here as it requires hooking up to your bank account._
+Hook up [Trim](https://track.flexlinkspro.com/a.ashx?foid=1137348.111069198&foc=1&fot=9999&fos=1) to your bank account and it will notify you of large purchases, potentially alerting you to fraud, your bank may have something like this that you can enable without using a third party. Trim also promises to help negotiate your Comcast bill down and can also help get refunds for you when your Amazon packages do not arrive on time.
+
+_Use your best judgment here as it requires hooking up to your bank account._
 
 ---
 
