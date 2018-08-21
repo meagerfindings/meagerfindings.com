@@ -18,7 +18,7 @@ We either use or have used each of the resources on this page. _Many of the link
 
 We currently keep our savings for our downpayment in an online savings account at [Marcus by Goldman Sachs](https://www.marcus.com/us/en). There is no minimum deposit, no monthly minimum, and no transaction fees.
 
-**Best Feature:** They currently offer one of the best annual rates of return at 1.8% (as of 08/08/2018), [compare this to rate to that of a sign up bonus]({{ site.baseurl }}{% link _posts/2018-07-13-earning-900-in-less-than-4-hours.md %}#enter-the-sign-up-bonuses). Their rates have increased to 0.3% in the last 5 months, not to shabby.
+**Best Feature:** They currently offer one of the best annual rates of return at 1.85% (as of 08/21/2018), [compare this to rate to that of a sign up bonus]({{ site.baseurl }}{% link _posts/2018-07-13-earning-900-in-less-than-4-hours.md %}#enter-the-sign-up-bonuses). Their rates have increased to 0.35% in the last 5 months, not to shabby.
 
 _Quick tip if you sign up for Marcus… their website will not allow you to sign in if you are using a VPN._
 

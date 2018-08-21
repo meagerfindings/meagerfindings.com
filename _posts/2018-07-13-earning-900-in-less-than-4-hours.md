@@ -12,6 +12,8 @@ I've heard several times that as you save, more opportunities to make more money
 
 Right now my wife and I are in the process of saving up for a down payment for house. We have been putting the down payment into [Marcus from Goldman Sachs](https://www.marcus.com/us/en) due to their 1.5% annual percentage yield they had in January 2018. Their rate has increased to 1.8% in the last 5 months, not to shabby. (Quick tip if you sign up for Marcus... their website will not allow you to sign in if you are using a VPN.) I have not found a better rate to date with zero risk and the ability to keep the entire down payment in a liquid state... until now.
 
+_Update: 08/21/2018 Marcus's current interest rate is 1.85%._
+
 #### Enter the Sign Up Bonus(es)
 
 [Chase bank is currently offering a sign up bonus of $300](https://accounts.chase.com/consumer/banking/online/savings010318) when you deposit $25,000 within 20 business days of opening the account as long as you maintain a $25,000 balance for 90 days. The return rate here works out to be 4.8%:
