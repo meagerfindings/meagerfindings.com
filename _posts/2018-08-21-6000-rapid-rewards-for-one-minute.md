@@ -36,6 +36,8 @@ For the sake of simplicity, lets call it 1 cent per point:
 
 Taking the two required steps to qualify for this bonus took me literally less than one minute to complete. I'm tempted to call this post _"Getting a $3,600 an Hour Rate for One Minute"_ but I think that is a little to far on the side click-bait and sensationalism. Regardless, there's $60 for signing up for an email.
 
+{% include google_adsense_article.html %}
+
 ## The Fine Print
 
 After reading the fine print on the mailer, there are a few things to keep in mind:

@@ -124,6 +124,8 @@ If you want to take it a step further with [Blooom](https://track.flexlinkspro.c
 
 _In order to use Blooom's services, you will have to enter your credentials to your financial institutions. Please evaluate Blooom's security to see if it up to your standards._
 
+{% include google_adsense_article.html %}
+
 ### M1 Finance
 
 [M1 Finance](https://mbsy.co/mGmjq) allows you to setup "pies"  comprised of different funds, stocks, bonds. You can choose from their target allocation pies or create your own. You can even have sub-pies.
@@ -162,6 +164,8 @@ A great all around Financial podcast on investing. Even if you are not pursuing 
 ### The Side Hustle Show
 
 [The Side Hustle Show](https://www.sidehustlenation.com/side-hustle-show/) provides hundreds of interviews with successful entrepreneurs from around the country. This is a goldmine of ideas and inspiration.
+
+{% include google_adsense_article.html %}
 
 ---
 ## Shopping Tools
@@ -209,6 +213,8 @@ We use [Google Keep](https://keep.google.com/) to house our collaborative grocer
 Hook up [Trim](https://track.flexlinkspro.com/a.ashx?foid=1137348.111069198&foc=1&fot=9999&fos=1) to your bank account and it will notify you of large purchases, potentially alerting you to fraud, your bank may have something like this that you can enable without using a third party. Trim also promises to help negotiate your Comcast bill down and can also help get refunds for you when your Amazon packages do not arrive on time.
 
 _Use your best judgment here as it requires hooking up to your bank account._
+
+{% include google_adsense_article.html %}
 
 ---
 

@@ -168,6 +168,8 @@ Whether you check out [Project Fi](https://g.co/fi/r/CR9401), [Mint Mobile](http
 
 Let me know in the comments if you've been able to slash your cell service bills or if you have any tips on this subject!
 
+{% include google_adsense_article.html %}
+
 ---
 
 ### Update on Verizon

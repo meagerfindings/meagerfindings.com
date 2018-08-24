@@ -163,6 +163,8 @@ Enter my referral code, `GC4DW` at the sign-up screen and you'll get 2,000 Fetch
 
 We use [Google Keep](https://keep.google.com/) to house our collaborative grocery list and weekly meal plans. Google recently updated the app on Android to suggest common grocery items in a grocery list as well and it does a decent job there.
 
+{% include google_adsense_article.html %}
+
 ---
 
 ## Technology Tools

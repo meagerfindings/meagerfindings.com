@@ -55,6 +55,8 @@ After years of honing in our expenses we now have the float to withstand moving 
 
 From now on I am going to be much more inclined to read the "junk mail" as this could all have been spread out over the last few months if I had read the mailers a few months ago. We also would have been able to have used the Chase bonus twice if I had read about it a few months earlier.
 
+{% include google_adsense_article.html %}
+
 ---
 
 #### Update: 07/31/2018

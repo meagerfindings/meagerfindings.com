@@ -83,6 +83,8 @@ We set camp up around 12 miles in on this first day. While we hoped to go a bit 
 
 We awoke on our second day refreshed and ready to go. We practically flew through the gradual slopes of the first few miles.
 
+{% include google_adsense_article.html %}
+
 ##### Trail Rider pass
 
 Prior to Trail Rider, you lose nearly 2,000 feet of elevation. This makes for an arduous hike up as you gain all your lost elevation over two miles. Throw in a false summit for a good mental obstacle and this stretch was truly testing. The top of the pass itself was dry but very windy. So windy that after pausing for a picture we started the descent to SnowMass lake. After a quick glimpse at the bustling lake we busted out  two more quick miles to finish out the day.

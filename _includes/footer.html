@@ -1,19 +1,24 @@
 {% if site.theme_settings.footer_text %}
 <footer class="site-footer">
-  {% include mint_mobile_footer.html %}
-</br>
-</br>
-  {% include tunnel_bear_footer.html %}
-    <p class="text">{{ site.theme_settings.footer_text }}</p>
-            <div class="footer-icons">
-                <ul>
-                <!-- Social icons from Font Awesome, if enabled -->
-                {% include icons.html %}
-                </ul>
-            </div>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Footer Vendor Space -->
+    {% include google_adsense_footer.html %}
+  <!-- </br>
+  </br>
+    {% include mint_mobile_footer.html %}
+  </br>
+  </br>
+    {% include tunnel_bear_footer.html %} -->
+      <p class="text">{{ site.theme_settings.footer_text }}</p>
+              <div class="footer-icons">
+                  <ul>
+                  <!-- Social icons from Font Awesome, if enabled -->
+                  {% include icons.html %}
+                  </ul>
+              </div>
 
-            <p class="text">
-              <i><a href="{{ site.baseurl }}{% link pages/privacy-policy.md %}">Privacy Policy</a> and <a href="{{ site.baseurl }}{% link pages/privacy-policy.md %}">Terms of Service</a></i>
-            </p>
+              <p class="text">
+                <i><a href="{{ site.baseurl }}{% link pages/privacy-policy.md %}">Privacy Policy</a> and <a href="{{ site.baseurl }}{% link pages/privacy-policy.md %}">Terms of Service</a></i>
+              </p>
 </footer>
 {% endif %}
