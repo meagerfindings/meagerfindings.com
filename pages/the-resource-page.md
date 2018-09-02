@@ -235,7 +235,9 @@ Excel really is a no brainer due to it's market prominence and either the joy or
 ### Google Opinion Rewards
 _Only applicable for Android users._
 
-Interested in receiving Google Play Store credit for completing short surveys based on recent purchases or places you have visited? If so, [Google Opinion Rewards](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) is the app for you. I have received $32 since September of last year, a smaller amount than my other friends using this app. The credits you earn can be used to for any purchase you make on the Google Play Store.
+Interested in receiving Google Play Store credit for completing short surveys based on recent purchases or places you have visited? If so, [Google Opinion Rewards](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks) is the app for you. I have received $34 since September of last year, a smaller amount than my other friends using this app. The credits you earn can be used to for any purchase you make on the Google Play Store.
+
+Read our [article on Google Opinion Rewards]({{ site.baseurl }}{% link _posts/2018-09-02-google-opinion-rewards.md %}) for more information.
 
 ### Tunnel Bear VPN
 
