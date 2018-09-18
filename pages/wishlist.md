@@ -14,6 +14,7 @@ _If you kindly decide to purchase an item for me from Amazon.com, please visit A
 
 ## 📖 Books
 _For any Amazon e-books given as gifts, you can select **Give as a Gift** ([Screenshot](https://goo.gl/PgPwqF)), sign into Amazon, and choose to send the gift to yourself so I am not notified immediately, meaning you can send me the link when you want ([Screenshot](https://goo.gl/YY4Zxm))._
+- [The Complete Privacy & Security Desk Reference: Volume II: Physical (Volume 2)](https://amzn.to/2OxqFCX) - $31
 - [Enemies of Peace Kindle Edition](https://amzn.to/2LNOPKO) - $3
 - [Rocketbook Mini](https://amzn.to/2NTawq0) - $16
 - [Rocketbook Everlast Notebook: Executive](https://amzn.to/2NVJuyA) - $32
@@ -22,7 +23,6 @@ _For any Amazon e-books given as gifts, you can select **Give as a Gift** ([Scre
 - [Fight: A Christian Case for Non-Violence Kindle Edition](https://amzn.to/2zQvbsJ) - $10
 - [Flowers for Algernon Kindle Edition](https://amzn.to/2L93D7h) - $9
 - [The Complete Privacy & Security Desk Reference: Volume I: Digital (Volume 1)](https://amzn.to/2K9E14R) - $30
-- [The Complete Privacy & Security Desk Reference: Volume II: Physical (Volume 2)](https://amzn.to/2OxqFCX) - $31
 
 ## 👕 Clothing
 - [Clarks Atticus Limit](https://amzn.to/2uywJT8) - $82 - _Size 11.5_
@@ -44,12 +44,12 @@ _For any Amazon e-books given as gifts, you can select **Give as a Gift** ([Scre
 ## 🍿 Movies
 
 ## 🏋️ Weight Training
+- [The Deadlift Wedge](https://amzn.to/2NTanXm) - $10.50
+  - The Dead Wedge - Deadlift Jack Alternative for Your Gym Bag - Raises loaded barbell & plates for effortless Loading/Unloading. Perfect for Powerlifting, Weightlifting, Crossfit, Home Gym & Deadlifts.
 - [Liquid Lifting chalk](https://amzn.to/2vNepWV) - $20ish
-- [Fractional weight plates](https://ironwoodyfitness.com/product/olympic-2-inch-fractional-plates/) - $25
-- Barbell
+- Barbells
   - [Rogue B&R Bar 2.0](https://www.roguefitness.com/rogue-29mm-burgener-rippetoe-bar-2-0) - $295
   - [Rogue Chan Bar](https://www.roguefitness.com/rogue-chan-bar) - $295
 - [Titan Fitness: Power Squat Rack](https://amzn.to/2L6iHSZ) - $380
 - [Pioneer Lifting Belt](https://generalleathercraft.com/product/pioneer-cut-10mm-thick-4-power-lifting-belt-copy/) - $90+
-- [The Genesis Jack](https://www.genesisjack.com/shop/genesis-jack) - $89
-  - A small, lightweight deadlift jack.
+- [Fractional weight plates](https://ironwoodyfitness.com/product/olympic-2-inch-fractional-plates/) - $25
