@@ -32,6 +32,8 @@ _For any Amazon e-books given as gifts, you can select **Give as a Gift** ([Scre
 - [Coding Board Game: On The Brink](https://amzn.to/2JAFeBZ) - $15
 - [Coding Board Game: Rover Control](https://amzn.to/2O2DULG) - $15
 - [Coding Board Game: Rover Repair](https://www.target.com/p/coding-board-game-robot-repair/-/A-52123740#lnk=sametab) - $15
+- [Mitosis Keyboard](https://flashquark.com/product/gb-mitosis-wireless-split-ergonomic-keyboard-w-acrylic-case/) - $200
+  - An open-source, wireless, ergonomic, and fully programmable keyboard. If I ever build another keyboard, this would be the one!
 
 ## ⛰️ Hiking stuff
 - [Outdoor Emergency Trauma Kit](https://amzn.to/2zPpEms) - $40
